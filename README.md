@@ -128,3 +128,12 @@ With 10+ years of experience, I specialize in building high-performance lakehous
 ✔ Cloud Architecture  
 ✔ Data Governance & Observability  
 ✔ Scalable Analytics Engineering
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahameng3-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mahameng3-crypto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahameng3-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=mahameng3-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
